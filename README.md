@@ -65,4 +65,19 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Agvance (SSI) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ssi-net.com/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ssi-net.com/)
+- [Support](https://meriplex.com/support/)
+- [Blog](https://meriplex.com/blog/)
+- [Terms of service](https://meriplex.com/terms-and-conditions/)
+- [Privacy policy](https://meriplex.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/agvance/](https://apis.io/providers/agvance/).
